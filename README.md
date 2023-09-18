@@ -32,7 +32,10 @@ Description: Analyzes the thumbnails of a YouTube channel's videos, providing in
 10.File: "youtube_trending_geolocation.py"
 Description: Analyzes the geographic distribution of trending videos on YouTube, helping identify regional preferences and trends.
 
-11.File: "YouTubeTranscriptAnalyzer.py"
+11.File: "YouTube_title_AI.py"
+Description: Analyzes youtube titles using AI to help aid with channel growth
+
+12.File: "YouTubeTranscriptAnalyzer.py"
 Description: YouTubeTranscriptAnalyzer is a Python-based project designed to analyze YouTube video transcripts for specific keywords. It utilizes the YouTube Data API v3 to fetch the video captions and extract the transcript. By providing a YouTube video ID and a list of keywords, the program counts the occurrences of each keyword in the transcript.
 
 How to Use:
